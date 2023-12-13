@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">poster</string>
+    <string name="login">login</string>
+    <string name="username">user name</string>
+    <string name="password">password</string>
+    <string name="logout">logout</string>
+    <string name="title">title</string>
+    <string name="price">price</string>
+    <string name="category">category</string>
+    <string name="condition">condition</string>
+    <string name="description">description</string>
+    <string name="select_folder">select image folder</string>
+</resources>
